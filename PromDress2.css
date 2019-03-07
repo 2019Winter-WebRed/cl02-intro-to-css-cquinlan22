@@ -1,0 +1,36 @@
+/*
+* Cara Quinlan
+* Due date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+*   { 
+
+}
+
+/* Body attributes here */
+
+body {
+ background-color:rgb(192, 219, 242);
+    
+font-family: sans-serif 
+}
+
+h1{
+    background-color: cadetblue; /* color for background of page*/
+    color:floralwhite; /* color of text*/
+}
+
+p{
+    /*type selector for ALL paragraphs*/
+    color:darkslateblue
+}
+
+#redText { /* id to change text to red */
+   color:red
+}
+#greenText { /* id to change text to green */
+    color: limegreen
+}
